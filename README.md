@@ -7,12 +7,9 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/7a3475e0-3bf4-4b88-beb5-0e2304ebf6bf
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
@@ -22,4 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/7a3475e0-3bf4-4b88-beb5-0e230
 =======
 # elite-scout-ai
 football Ai
->>>>>>> 329ede209ec9dc2ea06d725ef2383dbb5f009148
+
