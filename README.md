@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.vecteezy.com/free-png/typescript-logo" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/topics/ts-logo" />
 </div>
 
 # Run and deploy your AI Studio app
