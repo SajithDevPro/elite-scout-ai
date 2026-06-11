@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://static.vecteezy.com/system/resources/thumbnails/060/194/946/small/typescript-programming-language-3d-icon-transparent-background-free-png.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://www.esenceweb.com/backend/uploads/typescript-crash-course.png" />
 </div>
 
 # Run and deploy your AI Studio app
