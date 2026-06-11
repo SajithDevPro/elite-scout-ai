@@ -55,15 +55,7 @@ The future of football scouting powered by Artificial Intelligence.**
 ## Requirements
 
 - Node.js installed
-- Gemini API Key
-
----
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/yourusername/elite-scout-ai.git
-```
+- 
 
 ---
 
@@ -77,18 +69,6 @@ npm install
 
 ### 3. Configure Environment Variables
 
-Create:
-
-```
-.env.local
-```
-
-Add:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
 ---
 
 ### 4. Start Development Server
@@ -96,18 +76,6 @@ GEMINI_API_KEY=your_api_key_here
 ```bash
 npm run dev
 ```
-
-Application will run locally.
-
----
-
-# 🏗️ Project Vision
-
-Elite Scout AI aims to bring professional-level football analysis technology to everyone.
-
-From young players trying to improve, to scouts searching for the next generation of talent — AI makes football intelligence accessible.
-
----
 
 # 🧑‍💻 Developer
 
@@ -117,7 +85,6 @@ Built with passion for:
 🤖 Artificial Intelligence  
 📊 Data Analytics  
 🚀 Future Technology
-
 
 ---
 
