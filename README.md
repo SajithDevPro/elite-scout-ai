@@ -19,45 +19,6 @@ The future of football scouting powered by Artificial Intelligence.**
 
 ---
 
-# 🚀 About Elite Scout AI
-
-Elite Scout AI is a next-generation football analysis platform designed to transform the way players, coaches, and scouts understand performance.
-
-Using advanced AI technology, the platform analyzes football data and provides intelligent insights, helping users discover potential, improve weaknesses, and make smarter decisions.
-
----
-
-# ✨ Key Features
-
-## 🧠 AI Football Analysis
-- Intelligent player performance evaluation
-- AI-generated scouting reports
-- Strength and weakness detection
-- Tactical insights
-
-## ⚽ Player Intelligence System
-- Player profile management
-- Performance tracking
-- Development recommendations
-- Football growth analysis
-
-## 📊 Advanced Scouting Dashboard
-- Modern analytics interface
-- Data visualization
-- AI-powered recommendations
-- Professional scouting experience
-
-## 🔥 SaaS Platform Architecture
-Built with a scalable subscription-based model:
-
-| Plan | Features |
-|-|-|
-| 🆓 Free | Basic AI analysis |
-| ⭐ Pro | Advanced scouting tools |
-| 🚀 Elite | Full football intelligence suite |
-
----
-
 # 🛠️ Tech Stack
 
 ### Frontend
@@ -82,7 +43,8 @@ Built with a scalable subscription-based model:
 
 <div align="center">
 
-(Add screenshots of your dashboard here)
+<img width="1675" height="768" alt="image" src="https://github.com/user-attachments/assets/87b0e684-3f19-4168-a186-05c3c3786d15" />
+
 
 </div>
 
