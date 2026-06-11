@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/topics/ts-logo" />
+<img width="1200" height="475" alt="GHBanner" src="https://repository-images.githubusercontent.com/657740231/7a6b015e-0013-4f20-990e-01fa1f8e2968" />
 </div>
 
 # Run and deploy your AI Studio app
