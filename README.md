@@ -55,7 +55,6 @@ The future of football scouting powered by Artificial Intelligence.**
 ## Requirements
 
 - Node.js installed
-- 
 
 ---
 
